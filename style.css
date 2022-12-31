@@ -19,7 +19,9 @@ body {
 }
 
 header {
-    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 footer {
@@ -27,11 +29,13 @@ footer {
 }
 
 a {
-
+    text-decoration: none;
 }
 
 ul {
-    
+    list-style: none;
+    display: flex;
+    gap: 10px;
 }
 
 

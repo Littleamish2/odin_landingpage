@@ -35,7 +35,18 @@
 }
 
 .section4 {
+    margin: 50px 175px;
+    padding: 20px 10px;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 
+.section4-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 body {
@@ -80,6 +91,7 @@ blockquote {
 
 button {
     width: 100px;
+    flex: 0 0 auto;
 }
 
 h1 {
@@ -92,6 +104,10 @@ p {
 
 h2 {
     text-align: center;
+}
+
+h4 {
+    margin: 0px;
 }
 
 

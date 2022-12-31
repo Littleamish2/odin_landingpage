@@ -95,6 +95,7 @@ button {
     height: 25px;
     flex: 0 0 auto;
     border-radius: 10px;
+    background-color: #3882F6;
 }
 
 h1 {

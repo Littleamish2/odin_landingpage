@@ -16,8 +16,15 @@
 }
 
 .section2 {
-
+    margin-bottom: 50px;
 }
+
+.mediasection {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
 
 .section3 {
     display: flex;
@@ -81,6 +88,10 @@ h1 {
 
 p {
     margin: 0px;
+}
+
+h2 {
+    text-align: center;
 }
 
 

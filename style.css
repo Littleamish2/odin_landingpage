@@ -1,7 +1,13 @@
+.top {
+    background-color: #1F2937;
+    color: white;
+    padding: 0 175px;
+}
+
 .section1 {
     display: flex;
     justify-content: space-between;
-    margin: 50px;
+    margin: 50px 0;
 }
 
 .leftsection1 {
